@@ -1,0 +1,2 @@
+Sử dụng Multithread viết chương trình generate ra 100 số có 5 chu so,
+In ra xem có bao nhiêu số nguyên tố trong 100 số đó.
