@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
  * Hello world!
  *
  */
-public class App 
+public class RegexDemo
 {
     public static void main2( String[] args )
     {
